@@ -16,23 +16,6 @@ The script uses the Web3.py library for Ethereum interaction and the RLP library
 - Web3.py
 - RLP
 
-## Installation
-
-1. Clone this repository.
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
-
-2. Navigate to the project directory.
-    ```bash
-    cd your-repo-name
-    ```
-
-3. Install the required packages.
-    ```bash
-    pip install web3 rlp
-    ```
-
 ## Configuration
 
 Replace the following placeholders in the code:
@@ -49,4 +32,4 @@ Replace the following placeholders in the code:
 Run the script:
 
 ```bash
-python your_script_name.py
+python gasless.py
